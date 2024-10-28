@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Nucleo144_DSP-rescue")(type "KiCad")(uri "${KIPRJMOD}/Nucleo144_DSP-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "wels_pcb_nucleo144-rescue")(type "KiCad")(uri "${KIPRJMOD}/wels_pcb_nucleo144-rescue.kicad_sym")(options "")(descr ""))
+)
