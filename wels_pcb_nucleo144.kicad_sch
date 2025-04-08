@@ -6109,20 +6109,20 @@
 		(uuid "503cb350-37c7-4822-8fa6-92c0715b3e16")
 	)
 	(no_connect
+		(at 139.7 54.61)
+		(uuid "53489e02-7f45-4136-a5a0-f9822f048c1d")
+	)
+	(no_connect
 		(at 193.04 58.42)
 		(uuid "88297728-fc2d-42ba-b180-1a8f6c1a7d6a")
 	)
 	(no_connect
+		(at 160.02 54.61)
+		(uuid "8ec7eb69-9252-442b-8abd-8c91133b49a4")
+	)
+	(no_connect
 		(at 65.532 54.61)
 		(uuid "ba0ddd56-01ae-4a90-a54f-d3b09cb04e8d")
-	)
-	(no_connect
-		(at 142.24 57.15)
-		(uuid "cd052c24-b598-458a-a5eb-3534abd88f5c")
-	)
-	(no_connect
-		(at 156.718 57.15)
-		(uuid "d3d3b73e-3c7e-4265-a482-182803f95bf2")
 	)
 	(no_connect
 		(at 193.04 114.3)
@@ -6171,16 +6171,6 @@
 			(type default)
 		)
 		(uuid "053ae49f-7dab-4229-895e-8c09b7715fe1")
-	)
-	(wire
-		(pts
-			(xy 151.13 88.138) (xy 153.797 88.138)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "061139f6-4d0a-40f9-ac21-2354c960af88")
 	)
 	(wire
 		(pts
@@ -6304,6 +6294,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 85.09) (xy 154.94 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13b325c0-727f-416a-bc7e-929587b99f70")
+	)
+	(wire
+		(pts
 			(xy 243.84 63.5) (xy 247.65 63.5)
 		)
 		(stroke
@@ -6311,6 +6311,26 @@
 			(type default)
 		)
 		(uuid "148d1072-4c2f-4108-a37b-0a1937b0083d")
+	)
+	(wire
+		(pts
+			(xy 151.13 92.71) (xy 154.94 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15db433d-a9e1-4121-b60c-540154f6d135")
+	)
+	(wire
+		(pts
+			(xy 151.13 95.25) (xy 154.94 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1609dce5-784e-48d1-8428-1185a481f2cd")
 	)
 	(wire
 		(pts
@@ -6454,26 +6474,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.319 54.61) (xy 139.319 54.483)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "278e91c8-7cc5-4e40-bf29-c0a24b20dc1b")
-	)
-	(wire
-		(pts
-			(xy 151.13 90.678) (xy 153.797 90.678)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "286a822a-4b8b-48dc-85dd-c42bea9c7ca2")
-	)
-	(wire
-		(pts
 			(xy 60.96 60.706) (xy 60.96 62.357)
 		)
 		(stroke
@@ -6484,16 +6484,6 @@
 	)
 	(wire
 		(pts
-			(xy 153.797 96.393) (xy 153.797 95.758)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2adc52cf-358d-4755-beed-ca14ee3d34a0")
-	)
-	(wire
-		(pts
 			(xy 243.84 71.12) (xy 247.65 71.12)
 		)
 		(stroke
@@ -6501,16 +6491,6 @@
 			(type default)
 		)
 		(uuid "2b8fd84e-781a-4318-8315-b46f9a53f944")
-	)
-	(wire
-		(pts
-			(xy 151.13 85.598) (xy 153.797 85.598)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b9dccd2-65cb-44c7-ae0a-ef35e52bb6f9")
 	)
 	(wire
 		(pts
@@ -6571,16 +6551,6 @@
 			(type default)
 		)
 		(uuid "30969f5c-43e0-47b8-9f2a-87e3477553a6")
-	)
-	(wire
-		(pts
-			(xy 142.24 54.61) (xy 139.319 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "315aba3a-0e44-454d-a575-28396ce56752")
 	)
 	(wire
 		(pts
@@ -6651,6 +6621,16 @@
 			(type default)
 		)
 		(uuid "38f2197a-95d9-49c9-9e7b-51f0f0017428")
+	)
+	(wire
+		(pts
+			(xy 151.13 90.17) (xy 154.94 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3da6c5b2-9cfa-4703-bab3-d6bfee31b0d7")
 	)
 	(wire
 		(pts
@@ -6834,16 +6814,6 @@
 	)
 	(wire
 		(pts
-			(xy 153.797 95.758) (xy 151.13 95.758)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56096ed4-598a-449b-bacb-21d0773960df")
-	)
-	(wire
-		(pts
 			(xy 193.04 119.38) (xy 196.85 119.38)
 		)
 		(stroke
@@ -6954,13 +6924,13 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 93.218) (xy 153.797 93.218)
+			(xy 139.7 54.61) (xy 142.24 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "64cf6f4a-f992-4487-81de-e969e189811d")
+		(uuid "66280f3d-5220-485a-b7a8-1ea77119a392")
 	)
 	(wire
 		(pts
@@ -7084,6 +7054,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 57.15) (xy 142.24 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d401453-d4a3-4b1a-bc75-bf3e089f56ee")
+	)
+	(wire
+		(pts
 			(xy 157.607 69.85) (xy 154.94 69.85)
 		)
 		(stroke
@@ -7091,16 +7071,6 @@
 			(type default)
 		)
 		(uuid "7d91e7e2-d1df-4ee9-9ef1-94606e0b60fd")
-	)
-	(wire
-		(pts
-			(xy 154.94 57.15) (xy 156.718 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7dc7e7b5-8c77-4b33-8548-6398e3db083b")
 	)
 	(wire
 		(pts
@@ -7224,7 +7194,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 54.61) (xy 156.845 54.61)
+			(xy 154.94 54.61) (xy 160.02 54.61)
 		)
 		(stroke
 			(width 0)
@@ -7281,6 +7251,16 @@
 			(type default)
 		)
 		(uuid "8d248e7d-7eb5-4dee-96f9-24715f86c126")
+	)
+	(wire
+		(pts
+			(xy 151.13 82.55) (xy 157.48 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e9e03e5-c765-42c7-a7a1-990577b705c3")
 	)
 	(wire
 		(pts
@@ -7554,13 +7534,13 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 83.058) (xy 153.797 83.058)
+			(xy 151.13 87.63) (xy 154.94 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b9a2e3aa-3e34-4086-a18b-341c662a2c77")
+		(uuid "b8b9a33d-feb4-4ad3-a6dc-e770dab9a174")
 	)
 	(wire
 		(pts
@@ -7724,6 +7704,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 57.15) (xy 163.83 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccdc7680-c840-4cb7-b47b-6c898d802d02")
+	)
+	(wire
+		(pts
 			(xy 68.072 54.61) (xy 68.072 58.42)
 		)
 		(stroke
@@ -7864,6 +7854,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 95.25) (xy 154.94 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d800d379-f323-43ce-875d-2b45984d76ef")
+	)
+	(wire
+		(pts
 			(xy 242.57 124.46) (xy 247.65 124.46)
 		)
 		(stroke
@@ -7921,6 +7921,16 @@
 			(type default)
 		)
 		(uuid "e05bf1f1-e7c3-488e-8609-652834c63a06")
+	)
+	(wire
+		(pts
+			(xy 157.48 82.55) (xy 157.48 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0753664-f988-4dd6-8158-046848431c40")
 	)
 	(wire
 		(pts
@@ -8044,6 +8054,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 57.15) (xy 163.83 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5e8b483-308a-4d74-8f59-01905002d1dd")
+	)
+	(wire
+		(pts
 			(xy 38.354 114.427) (xy 38.354 117.221)
 		)
 		(stroke
@@ -8125,7 +8145,6 @@
 	)
 	(label "PB9"
 		(at 75.692 58.42 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8136,7 +8155,6 @@
 	)
 	(label "PF5"
 		(at 193.04 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8147,7 +8165,6 @@
 	)
 	(label "PG14"
 		(at 265.43 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8158,7 +8175,6 @@
 	)
 	(label "PF15"
 		(at 265.43 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8169,7 +8185,6 @@
 	)
 	(label "PE10"
 		(at 265.43 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8180,7 +8195,6 @@
 	)
 	(label "PE12"
 		(at 265.43 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8191,7 +8205,6 @@
 	)
 	(label "PE15"
 		(at 265.43 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8202,7 +8215,6 @@
 	)
 	(label "PF14"
 		(at 265.43 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8213,7 +8225,6 @@
 	)
 	(label "PE11"
 		(at 93.599 95.885 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8224,7 +8235,6 @@
 	)
 	(label "PC10"
 		(at 215.9 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8235,7 +8245,6 @@
 	)
 	(label "PC8"
 		(at 215.9 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8246,7 +8255,6 @@
 	)
 	(label "PB9"
 		(at 264.16 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8257,7 +8265,6 @@
 	)
 	(label "PG1"
 		(at 214.63 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8268,7 +8275,6 @@
 	)
 	(label "PF12"
 		(at 264.16 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8279,7 +8285,6 @@
 	)
 	(label "PE13"
 		(at 265.43 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8290,7 +8295,6 @@
 	)
 	(label "PD2"
 		(at 215.9 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8301,7 +8305,6 @@
 	)
 	(label "PG0"
 		(at 193.04 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8312,7 +8315,6 @@
 	)
 	(label "PB5"
 		(at 243.84 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8323,7 +8325,6 @@
 	)
 	(label "PC10"
 		(at 139.446 64.77 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8334,7 +8335,6 @@
 	)
 	(label "PC12"
 		(at 215.9 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8344,8 +8344,7 @@
 		(uuid "2c57b816-14ac-426c-9209-4c0fcf210cb5")
 	)
 	(label "PC12"
-		(at 153.797 88.138 0)
-		(fields_autoplaced yes)
+		(at 154.94 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8356,7 +8355,6 @@
 	)
 	(label "PB9"
 		(at 90.932 81.28 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8367,7 +8365,6 @@
 	)
 	(label "PA6"
 		(at 264.16 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8378,7 +8375,6 @@
 	)
 	(label "PC11"
 		(at 139.446 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8389,7 +8385,6 @@
 	)
 	(label "PC9"
 		(at 157.607 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8400,7 +8395,6 @@
 	)
 	(label "PA5"
 		(at 264.16 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8411,7 +8405,6 @@
 	)
 	(label "PB15"
 		(at 243.84 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8422,7 +8415,6 @@
 	)
 	(label "PE0"
 		(at 243.84 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8432,8 +8424,7 @@
 		(uuid "43569d15-5b70-471e-8358-828324d436e1")
 	)
 	(label "PC10"
-		(at 153.797 90.678 0)
-		(fields_autoplaced yes)
+		(at 154.94 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8444,7 +8435,6 @@
 	)
 	(label "PD3"
 		(at 214.63 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8455,7 +8445,6 @@
 	)
 	(label "PD14"
 		(at 264.16 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8466,7 +8455,6 @@
 	)
 	(label "PD13"
 		(at 37.084 117.221 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8477,7 +8465,6 @@
 	)
 	(label "PA7"
 		(at 264.16 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8488,7 +8475,6 @@
 	)
 	(label "PF2"
 		(at 193.04 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8499,7 +8485,6 @@
 	)
 	(label "PE9"
 		(at 265.43 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8510,7 +8495,6 @@
 	)
 	(label "PA0"
 		(at 243.84 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8521,7 +8505,6 @@
 	)
 	(label "PE4"
 		(at 214.63 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8532,7 +8515,6 @@
 	)
 	(label "PE3"
 		(at 214.63 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8543,7 +8525,6 @@
 	)
 	(label "PC6"
 		(at 243.84 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8554,7 +8535,6 @@
 	)
 	(label "PC7"
 		(at 243.84 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8565,7 +8545,6 @@
 	)
 	(label "PC9"
 		(at 215.9 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8576,7 +8555,6 @@
 	)
 	(label "PB9"
 		(at 41.91 72.517 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8587,7 +8565,6 @@
 	)
 	(label "PA3"
 		(at 193.04 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8598,7 +8575,6 @@
 	)
 	(label "PB0"
 		(at 243.84 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8609,7 +8585,6 @@
 	)
 	(label "PC10"
 		(at 157.607 64.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8620,7 +8595,6 @@
 	)
 	(label "PD6"
 		(at 214.63 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8631,7 +8605,6 @@
 	)
 	(label "PG9"
 		(at 265.43 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8642,7 +8615,6 @@
 	)
 	(label "PB11"
 		(at 265.43 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8653,7 +8625,6 @@
 	)
 	(label "PB8"
 		(at 264.16 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8664,7 +8635,6 @@
 	)
 	(label "PC3"
 		(at 121.793 156.591 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8675,7 +8645,6 @@
 	)
 	(label "PF7"
 		(at 214.63 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8686,7 +8655,6 @@
 	)
 	(label "PE14"
 		(at 103.759 95.885 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8697,7 +8665,6 @@
 	)
 	(label "PA3"
 		(at 121.92 128.27 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8708,7 +8675,6 @@
 	)
 	(label "AGND"
 		(at 243.84 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8718,8 +8684,7 @@
 		(uuid "8a2366eb-72a3-4841-95c0-87cfcc1d7589")
 	)
 	(label "PC11"
-		(at 153.797 93.218 0)
-		(fields_autoplaced yes)
+		(at 154.94 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8730,7 +8695,6 @@
 	)
 	(label "PD13"
 		(at 243.84 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8741,7 +8705,6 @@
 	)
 	(label "PD0"
 		(at 193.04 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8752,7 +8715,6 @@
 	)
 	(label "PB4"
 		(at 243.84 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8763,7 +8725,6 @@
 	)
 	(label "PD12"
 		(at 243.84 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8774,7 +8735,6 @@
 	)
 	(label "PC9"
 		(at 139.446 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8785,7 +8745,6 @@
 	)
 	(label "PE13"
 		(at 98.679 95.885 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8796,7 +8755,6 @@
 	)
 	(label "PB8"
 		(at 44.45 72.517 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8807,7 +8765,6 @@
 	)
 	(label "PC11"
 		(at 215.9 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8818,7 +8775,6 @@
 	)
 	(label "PA15"
 		(at 243.84 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8829,7 +8785,6 @@
 	)
 	(label "PG3"
 		(at 215.9 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8840,7 +8795,6 @@
 	)
 	(label "PD5"
 		(at 214.63 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8851,7 +8805,6 @@
 	)
 	(label "PC12"
 		(at 157.607 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8862,7 +8815,6 @@
 	)
 	(label "PC0"
 		(at 145.034 140.97 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8873,7 +8825,6 @@
 	)
 	(label "PF9"
 		(at 214.63 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8884,7 +8835,6 @@
 	)
 	(label "PF4"
 		(at 243.84 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8895,7 +8845,6 @@
 	)
 	(label "PB3"
 		(at 243.84 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8906,7 +8855,6 @@
 	)
 	(label "PC3"
 		(at 193.04 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8917,7 +8865,6 @@
 	)
 	(label "PD6"
 		(at 51.943 146.304 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8928,7 +8875,6 @@
 	)
 	(label "PA0"
 		(at 37.973 146.304 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8939,7 +8885,6 @@
 	)
 	(label "PH0"
 		(at 193.04 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8950,7 +8895,6 @@
 	)
 	(label "PD11"
 		(at 243.84 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8961,7 +8905,6 @@
 	)
 	(label "PD7"
 		(at 214.63 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8972,7 +8915,6 @@
 	)
 	(label "PF13"
 		(at 265.43 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8983,7 +8925,6 @@
 	)
 	(label "PE6"
 		(at 214.63 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8994,7 +8935,6 @@
 	)
 	(label "PB6"
 		(at 243.84 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9005,7 +8945,6 @@
 	)
 	(label "PD12"
 		(at 54.102 117.221 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9016,7 +8955,6 @@
 	)
 	(label "PE8"
 		(at 265.43 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9027,7 +8965,6 @@
 	)
 	(label "PF3"
 		(at 193.04 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9038,7 +8975,6 @@
 	)
 	(label "PB8"
 		(at 93.472 81.28 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9049,7 +8985,6 @@
 	)
 	(label "PC0"
 		(at 193.04 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9060,7 +8995,6 @@
 	)
 	(label "PB2"
 		(at 243.84 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9071,7 +9005,6 @@
 	)
 	(label "PA4"
 		(at 243.84 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9082,7 +9015,6 @@
 	)
 	(label "PF10"
 		(at 193.04 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9093,7 +9025,6 @@
 	)
 	(label "PC11"
 		(at 157.607 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9104,7 +9035,6 @@
 	)
 	(label "VIN"
 		(at 193.04 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9115,7 +9045,6 @@
 	)
 	(label "PC12"
 		(at 139.446 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9126,7 +9055,6 @@
 	)
 	(label "PB1"
 		(at 243.84 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9137,7 +9065,6 @@
 	)
 	(label "IOREF"
 		(at 193.04 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9148,7 +9075,6 @@
 	)
 	(label "PC2"
 		(at 243.84 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9159,7 +9085,6 @@
 	)
 	(label "PH1"
 		(at 193.04 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9170,7 +9095,6 @@
 	)
 	(label "PE11"
 		(at 265.43 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9180,8 +9104,7 @@
 		(uuid "ddf3e56b-21d6-4658-ba7f-a9f65e7baa8d")
 	)
 	(label "PG0"
-		(at 153.797 85.598 0)
-		(fields_autoplaced yes)
+		(at 154.94 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9192,7 +9115,6 @@
 	)
 	(label "PD4"
 		(at 214.63 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9203,7 +9125,6 @@
 	)
 	(label "PB9"
 		(at 97.917 58.928 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9214,7 +9135,6 @@
 	)
 	(label "PD15"
 		(at 264.16 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9225,7 +9145,6 @@
 	)
 	(label "PF8"
 		(at 214.63 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9236,7 +9155,6 @@
 	)
 	(label "PE7"
 		(at 265.43 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9247,7 +9165,6 @@
 	)
 	(label "PB8"
 		(at 100.457 58.928 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9258,7 +9175,6 @@
 	)
 	(label "PD1"
 		(at 193.04 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9269,7 +9185,6 @@
 	)
 	(label "PB8"
 		(at 78.232 58.42 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9280,7 +9195,6 @@
 	)
 	(label "PB__"
 		(at 243.84 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9291,7 +9205,6 @@
 	)
 	(label "PE14"
 		(at 265.43 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9302,7 +9215,6 @@
 	)
 	(label "PE5"
 		(at 214.63 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9313,7 +9225,6 @@
 	)
 	(label "NRST"
 		(at 193.04 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9324,7 +9235,6 @@
 	)
 	(label "PG2"
 		(at 215.9 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9335,7 +9245,6 @@
 	)
 	(label "PB13"
 		(at 243.84 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9346,7 +9255,6 @@
 	)
 	(label "PB10"
 		(at 265.43 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11025,7 +10933,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB"
+		(property "Footprint" "LED_THT:LED_D5.0mm-4_RGB_Wide_Pins"
 			(at 99.949 115.316 0)
 			(effects
 				(font
@@ -11279,6 +11187,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 157.48 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2d2fdc6a-6365-4bf1-b1a4-c9335228e8c8")
+		(property "Reference" "#PWR022"
+			(at 157.48 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 157.734 78.486 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0904280e-e3c4-4c59-8121-34d4dea85f68")
+		)
+		(instances
+			(project "wels_pcb_nucleo144"
+				(path "/38942eb1-6bc2-4165-b882-e721229f2b29"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 69.596 149.225 0)
 		(unit 1)
@@ -11339,6 +11313,72 @@
 			(project "wels_pcb_nucleo144"
 				(path "/38942eb1-6bc2-4165-b882-e721229f2b29"
 					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 154.94 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "38acd058-1c7b-43f6-8f4e-c3ff3feed1be")
+		(property "Reference" "#PWR019"
+			(at 154.94 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 154.94 102.743 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 154.94 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6ad3f2c4-f504-49c4-af32-fe6443df76af")
+		)
+		(instances
+			(project "wels_pcb_nucleo144"
+				(path "/38942eb1-6bc2-4165-b882-e721229f2b29"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -11807,33 +11847,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x06_Pin")
-		(at 146.05 88.138 0)
+		(lib_id "power:+5V")
+		(at 135.89 57.15 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "53992204-3eb6-43dd-b440-2992b79eee53")
-		(property "Reference" "J9"
-			(at 146.685 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SPI"
-			(at 146.685 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
-			(at 146.05 88.138 0)
+		(uuid "50d069d5-1fb2-4e26-822f-aa8d2e1032d3")
+		(property "Reference" "#PWR016"
+			(at 139.7 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11841,8 +11864,26 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 146.05 88.138 0)
+		(property "Value" "+5V"
+			(at 132.08 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 135.89 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11851,7 +11892,72 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 88.138 0)
+			(at 135.89 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "932e365a-e91a-4f17-b719-b96594cc2fe8")
+		)
+		(instances
+			(project "wels_pcb_nucleo144"
+				(path "/38942eb1-6bc2-4165-b882-e721229f2b29"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x06_Pin")
+		(at 146.05 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53992204-3eb6-43dd-b440-2992b79eee53")
+		(property "Reference" "J9"
+			(at 146.685 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SPI"
+			(at 146.685 79.502 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+			(at 146.05 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 146.05 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11948,72 +12054,6 @@
 			(project "wels_pcb_nucleo144"
 				(path "/38942eb1-6bc2-4165-b882-e721229f2b29"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 153.797 96.393 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5a64dd6c-8892-4179-8c7b-dc125ee2eb3a")
-		(property "Reference" "#PWR019"
-			(at 153.797 102.743 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 153.797 101.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 153.797 96.393 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 153.797 96.393 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 153.797 96.393 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2d7e1c09-a2db-4b56-8836-cb45265634a1")
-		)
-		(instances
-			(project "wels_pcb_nucleo144"
-				(path "/38942eb1-6bc2-4165-b882-e721229f2b29"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -15071,72 +15111,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 139.319 54.483 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c9c343ec-a1cb-4489-92eb-b3cfec5488b8")
-		(property "Reference" "#PWR016"
-			(at 143.129 54.483 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 135.509 54.483 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 139.319 54.483 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 139.319 54.483 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 139.319 54.483 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c5543e26-e961-49f6-aa44-f3b1db8deab9")
-		)
-		(instances
-			(project "wels_pcb_nucleo144"
-				(path "/38942eb1-6bc2-4165-b882-e721229f2b29"
-					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 46.99 73.152 0)
 		(unit 1)
@@ -15269,16 +15243,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 156.845 54.61 270)
+		(lib_id "power:+5V")
+		(at 163.83 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "d21ec7a7-deac-4672-928b-eb42f60fe4ce")
+		(uuid "ea35da33-124c-44b7-98ca-ef38d4d4b3f7")
 		(property "Reference" "#PWR021"
-			(at 153.035 54.61 0)
+			(at 163.83 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15286,8 +15260,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 160.655 54.61 90)
+		(property "Value" "+5V"
+			(at 163.83 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15296,7 +15270,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.845 54.61 0)
+			(at 163.83 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15305,7 +15279,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.845 54.61 0)
+			(at 163.83 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15314,7 +15288,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 156.845 54.61 0)
+			(at 163.83 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15323,7 +15297,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b2f456a6-6bfd-436a-a8e1-72e4d181b541")
+			(uuid "c19cc999-a754-4044-a659-04bdd08da454")
 		)
 		(instances
 			(project "wels_pcb_nucleo144"
@@ -15801,72 +15775,6 @@
 			(project "wels_pcb_nucleo144"
 				(path "/38942eb1-6bc2-4165-b882-e721229f2b29"
 					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 153.797 83.058 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f4b7beb4-7de9-49d5-80a8-44e150af2405")
-		(property "Reference" "#PWR022"
-			(at 149.987 83.058 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 157.607 83.058 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 153.797 83.058 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 153.797 83.058 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 153.797 83.058 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "319f35b7-301b-43bf-93ce-21b4c9a4fa93")
-		)
-		(instances
-			(project "wels_pcb_nucleo144"
-				(path "/38942eb1-6bc2-4165-b882-e721229f2b29"
-					(reference "#PWR022")
 					(unit 1)
 				)
 			)
